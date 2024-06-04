@@ -1,6 +1,6 @@
 # Vercel Link
 
-elvis-store-fpf13g6w0-elvisstones-projects.vercel.app
+https://elvis-store-ph6dji0i7-elvisstones-projects.vercel.app/
 
 # Getting Started with Create React App
 
